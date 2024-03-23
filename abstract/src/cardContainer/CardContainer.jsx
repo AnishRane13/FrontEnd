@@ -27,7 +27,7 @@ const CardContainer = () => {
         id: 4,
         imageSrc: 'https://theme.zdassets.com/theme_assets/2197739/3e82d0126e97d7b7c60a611d4e11b3c278d33743.png',
         heading: 'Manage billing',
-        text: 'Change subscriptions and payment details.',
+        text: 'Change subscriptions and payment details. Get Payment done easily.',
         link: '#',
       },
       {
